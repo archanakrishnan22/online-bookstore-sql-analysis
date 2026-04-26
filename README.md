@@ -26,6 +26,6 @@ To leverage SQL queries to identify patterns, trends, and relationships across m
 - Business Insight Generation
 
 ## Project Files
-- online_bookstore_analysis.sql
+- [online_bookstore_analysis](online_bookstore_analysis.sql)
 
 ---
